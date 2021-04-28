@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: François Tonic
-image: /img/home-jumbotron.jpg
+image: /img/moi_abou.jpg
 heading: Blabla
 subheading: Journaliste, Historien, Historien de l'informatique, Geek
 mainpitch:
